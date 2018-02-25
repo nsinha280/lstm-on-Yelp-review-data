@@ -1,1 +1,1 @@
-I have used LSTM for setiment analysis of the reviews of Yel dataset.
+I have used LSTM for sentiment analysis on the reviews of Yelp dataset.
